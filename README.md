@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=180&section=header&text=Sacad%20Elmi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -39,7 +38,7 @@
 
 <br/><br/>
 
-`C#` · `.NET` · `ASP.NET Core`  
+`C#` · `.NET` · `ASP.NET Core`
 `Entity Framework` · `MediatR` · `Blazor`
 
 </td>
@@ -52,7 +51,7 @@
 
 <br/><br/>
 
-`React` · `Next.js` · `TypeScript`  
+`React` · `Next.js` · `TypeScript`
 `Tailwind CSS` · `Framer Motion` · `Three.js`
 
 </td>
@@ -67,7 +66,7 @@
 
 <br/><br/>
 
-`SQL Server` · `PostgreSQL`  
+`SQL Server` · `PostgreSQL`
 `Azure` · `AWS` · `Supabase`
 
 </td>
@@ -80,7 +79,7 @@
 
 <br/><br/>
 
-`Docker` · `Vercel`  
+`Docker` · `Vercel`
 `GitHub Actions` · `n8n` · `Git`
 
 </td>
@@ -165,12 +164,12 @@ Community-driven platform helping cat owners find lost cats using live notificat
 
 <div align="center">
 
-| Project | Focus |
-|---|---|
-| 🚗 OnePark | Smart parking ecosystem |
-| 🐱 CatFinder | Community-driven lost pet platform |
-| 🤖 AI Workflows | Automation & integrations |
-| ☁️ Cloud Systems | Scalable architectures |
+| Project          | Focus                              |
+| ---------------- | ---------------------------------- |
+| 🚗 OnePark       | Smart parking ecosystem            |
+| 🐱 CatFinder     | Community-driven lost pet platform |
+| 🤖 AI Workflows  | Automation & integrations          |
+| ☁️ Cloud Systems | Scalable architectures             |
 
 </div>
 
@@ -189,5 +188,5 @@ Community-driven platform helping cat owners find lost cats using live notificat
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=140&section=footer"/>
 
 </div>
-```
+
 
